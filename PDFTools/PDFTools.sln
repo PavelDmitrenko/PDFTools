@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFTools", "PDFTools.csproj", "{401DB26B-7BD7-4669-9F9F-F28F19F1FE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFToolsTests", "..\PDFToolsTests\PDFToolsTests.csproj", "{746143CB-52AC-4A66-B0D8-2FFA46DD3F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{401DB26B-7BD7-4669-9F9F-F28F19F1FE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401DB26B-7BD7-4669-9F9F-F28F19F1FE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401DB26B-7BD7-4669-9F9F-F28F19F1FE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401DB26B-7BD7-4669-9F9F-F28F19F1FE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746143CB-52AC-4A66-B0D8-2FFA46DD3F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746143CB-52AC-4A66-B0D8-2FFA46DD3F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746143CB-52AC-4A66-B0D8-2FFA46DD3F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746143CB-52AC-4A66-B0D8-2FFA46DD3F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCFF0CF4-B6BA-4FFB-B85F-C5A5F09B1E47}
+	EndGlobalSection
+EndGlobal
