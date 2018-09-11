@@ -1,2 +1,2 @@
 # PDFTools
-C# Tools for analyzing and manipulating PDF files
+C# Tools based on iTextSharp library for analyzing and manipulating PDF files 
